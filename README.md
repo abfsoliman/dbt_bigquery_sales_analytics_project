@@ -59,7 +59,7 @@ SELECT * FROM raw_data;
 
 ```dbt test         # Run tests on models```
 
-## Resources:
+## 🗃️ Resources:
 This project is inspired by the DBT Crash Course below
 
 [DBT Crash Course](https://www.youtube.com/watch?v=RdiOhhHIAmI)
