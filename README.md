@@ -51,6 +51,7 @@ WITH raw_data AS (
 SELECT * FROM raw_data;
 ```
 5. Run dbt models
+   
 ```dbt compile      # Check the models syntax and run```
 
 ```dbt run          # Run all models```
