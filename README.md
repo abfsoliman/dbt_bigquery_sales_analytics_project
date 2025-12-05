@@ -32,8 +32,9 @@ A sample end-to-end data‑engineering / analytics project demonstrating how to 
 
 2. Authenticate with Google Cloud or Service Account json key
 3. Test the conection
-> N.B. Navigate to the project's directory first
 ```dbt debug```
+> N.B. Navigate to the project's directory first
+
 
 4. Generate the raw dataset to be used in this project (in BigQuery)
 ```sql
