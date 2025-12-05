@@ -53,11 +53,13 @@ SELECT * FROM raw_data;
 ```
 5. Run dbt models
    
-```dbt compile      # Check the models syntax and run```
+```bash
+dbt compile      # Check the models syntax and run
 
-```dbt run          # Run all models```
+dbt run          # Run all models
 
-```dbt test         # Run tests on models```
+dbt test         # Run tests on models
+```
 
 ## 🗃️ Resources:
 This project is inspired by the DBT Crash Course below
