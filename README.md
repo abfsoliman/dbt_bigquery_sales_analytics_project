@@ -25,7 +25,7 @@ A sample end-to-end data‑engineering / analytics project demonstrating how to 
 - dbt installed with BigQuery adapter (`pip install dbt-bigquery`).  
 - git installed and configured for version control.
 
-## Quick Start / Setup
+## 🔧 Quick Start / Setup
 
 1. Configure dbt profiles
 ```dbt init <project_name>```
