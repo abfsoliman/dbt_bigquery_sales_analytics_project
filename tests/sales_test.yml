@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: agg_sales
+    description: "Checking data quality in the agg. table"
+    tests:
+      - not_null:
+          column_name: country
+      - not_null:
+          column_name: total_orders
